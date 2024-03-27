@@ -1,89 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Caden DeSpain's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Caden DeSpain
+BYU-Idaho Graduate
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="cadendespain@icloud.com">cadendespain@icloud.com</a>
+| <a href="https://www.linkedin.com/in/caden-despain-50745920b/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Graduating with a Bachelors of Science in Biology from BYU-Idaho and prepping for masters programs.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Bioinformatics and Data Science
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Genetics, Phylogenetics, Evolution, Epidemiology, Software Developement, De-extinction 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2020-April 2024`
+__Brigham Young University Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`March 2021`
+__Phlebotomy Training Specialists__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`August 2015-May 2019`
+__Snowflake High School__
 
 
 
-## Awards
+## Work Experience
 
-`2012`
-President, *Royal Society*, London, UK
+`July 2023-October 2023`
+__Cashier__, Rexburg, Idaho
 
-Associate, *French Academy of Science*, Paris, France
+- Cleaned front end, assisted customers with variety of needs, pushed carts
+- Gained great customer service skills, and problem-solving skills
 
+`September 2022-July 2023`
+__Parking Service Officer__, Brigham Young University Idaho
 
+- Maintained campus parking rules by patrolling lots and ticketing violators
+- Learned to provide good customer service, and how to be polite and patient with difficult people
 
-## Publications
+`April 2021-July 2021`
+__Dining Crew Member__, Homestead Assisted Living
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Prepared, cooked, and served elderly patients suffering from dementia and other health problems
+- Made sure patients were satisfied with meals, and learned to step up and be a leader when someone more experienced was not around
 
 
-## Occupation
+## Volunteer Experience
 
-`1600`
-__Royal Mint__, London
+`July 2017`
+__Eagle Scout__ 
 
-- Warden
-- Minted coins
+- Conducted, organized, and oversaw construction of new fencing on a section of the Taylor rodeo grounds for total of 130 hours
+- Learned how to adapt to new situations
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`August 2018-May 2019`
+__Link Crew Leader__
 
+- Mentored, and assisted incoming freshman
 
+'August 2022- October 2023'
+__Rock Gym Volunteer__
+
+- Taught new climbers about safety and how to use ropes and harnesses to safely climb
+- Ensured safety of all climbers on boulder wall and top rope wall 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
